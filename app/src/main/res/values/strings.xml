@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taxes</string>
+    <string name="hint_surface">Surface (m²)</string>
+    <string name="hint_pieces">Nombre de pièces</string>
+    <string name="label_piscine">Piscine</string>
+    <string name="btn_calculer">Calculer</string>
+</resources>
